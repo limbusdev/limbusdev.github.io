@@ -13,4 +13,5 @@ title: limbusdev
 
 ## Privacy Policies
 
++ [General Privacy Policy](./documents/privacy_policies/Privacy_Policy.html)
 + [Privacy Policy for CatchEm](./documents/privacy_policies/Privacy_Policy_CatchEm.html)
