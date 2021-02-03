@@ -385,7 +385,7 @@ Immer auf dem neuesten Stand zu Projekten, die dich interressieren, bleiben.
 + **Quellcode:** [github.com/Etuldan/spaRSS](https://github.com/Etuldan/spaRSS)
 
 
-## Documenten-Betrachter (PDF, ...)
+### Documenten-Betrachter (PDF, ...)
 
 Verschiedene Dokumentformate betrachten.
 
