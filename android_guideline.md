@@ -2,11 +2,6 @@
 
 # Android Guideline
 
-> **PLEASE READ:** The reason these apps are listed here is because they are trustworthy and open source.
-> Their developers have no intention to spy on you and no financial interest in your data. On the other
-> hand this means they give away their time and hard work for free. Pleaser consider at least 1, 2 or even
-> 5€ to them. Of course more is better : ).
-
 > **WARNING:** I take absolutely no responsibility for any damage done by following this guideline. Think for
 > yourself before applying any of the suggested steps.
 
@@ -22,6 +17,18 @@ Its not about seeing no ads but has much wider implications like freedom and hum
 written on the matter and I don't want to do it again here.
 
 Read [why privacy matters at privacyinternational.org](https://privacyinternational.org/learning-resources/privacy-matters) to learn more.
+
+
+# Donations
+
+The reason these apps are listed here is because they are trustworthy and open source.
+Their developers have no intention to spy on you and no financial interest in your data. On the other
+and this means they give away their time and hard work for free. Pleaser consider at least 1, 2 or even
+5€ to them. Of course more is better.
+
+Many of the apps in the curated list are from the **SimpleMobileTools** app suite. Please donate some money at the
+[SimpleMobileTools](https://www.simplemobiletools.com/) website if you plan to use the pro features. You can get the pro
+features for free on F-Droid. But it's just fair to donate some € if you can afford it (and I think everyone can).
 
 
 # App Store
@@ -129,9 +136,6 @@ For all file managing tasks (browsing, copying, deleting, moving, ...).
 + **Feature highlights:** Theming support
 + **Source code:** [github.com/SimpleMobileTools/Simple-File-Manager](https://github.com/SimpleMobileTools/Simple-File-Manager)
 
-> **HINT:** Please donate some money at [SimpleMobileTools](https://www.simplemobiletools.com/) if you plan to use the pro features. You can get the pro
-> features for free on F-Droid. But it's just fair to donate some € if you can afford it (and I think everyone can).
-
 
 ## Browser
 
@@ -220,7 +224,176 @@ Calling people, browsing and editing contacts. This entry consists of two apps t
 + **Feature highlights:** Theming, chosing contact sources (cloud, SIM, accounts, ...)
 + **Source code:** [github.com/SimpleMobileTools](https://github.com/SimpleMobileTools)
 
-> **HINT:** Please donate some money at [SimpleMobileTools](https://www.simplemobiletools.com/) if you plan to use the pro features. You can get the pro
-> features for free on F-Droid. But it's just fair to donate some € if you can afford it (and I think everyone can).
+
+## Gallery
+
+Managing and viewing your photos and videos.
+
++ **Name:** Simple Gallery Pro
++ **Availability:**
+  - [Simple Gallery Pro](https://f-droid.org/packages/com.simplemobiletools.gallery.pro/) on F-Droid (install [Simple Thank You](https://f-droid.org/en/packages/com.simplemobiletools.thankyou/) as well to get pro features)
+  - [Simple Gallery Pro](https://play.google.com/store/apps/details?id=com.simplemobiletools.gallery.pro) (ca. 1€) on Play Store
++ **Feature highlights:** Theming support, excluding and including specific directories
++ **Source code:** [github.com/SimpleMobileTools](https://github.com/SimpleMobileTools)
+
+
+## Music
+
+Playing your locally stored music.
+
++ **Name:** Vinyl Music Player
++ **Availability:** [Vinyl Music Player](https://f-droid.org/packages/com.poupa.vinylmusicplayer/) on F-Droid
++ **Feature highlights:** Cover art
++ **Source code:** [github.com/AdrienPoupa/VinylMusicPlayer](https://github.com/AdrienPoupa/VinylMusicPlayer)
+
+
+## Calendar
+
+Viewing and managing your dates and birthdays.
+
++ **Name:** Etar
++ **Availability:** [Etar](https://f-droid.org/packages/ws.xsoh.etar/) on F-Droid
++ **Feature highlights:** Includes widgets
++ **Source code:** [github.com/Etar-Group/Etar-Calendar](https://github.com/Etar-Group/Etar-Calendar)
+
+or
+
++ **Name:** Simple Calendar Pro
++ **Availability:**
+  - [Simple Calendar Pro](https://f-droid.org/packages/com.simplemobiletools.calendar.pro/) on F-Droid (install [Simple Thank You](https://f-droid.org/en/packages/com.simplemobiletools.thankyou/) as well to get pro features)
+  - [Simple Calendar Pro](https://play.google.com/store/apps/details?id=com.simplemobiletools.calendar.pro) (ca. 1€) on Play Store
++ **Feature highlights:** Theming support, with widgets
++ **Source code:** [github.com/SimpleMobileTools](https://github.com/SimpleMobileTools)
+
+
+## Instant Messenger
+
+Encrypted secure instant messaging.
+
++ **Name:** Briar
++ **Availability:** [Briar](https://f-droid.org/packages/org.briarproject.briar.android/) on F-Droid
++ **Feature highlights:** Serverless direct messaging, works even when governments shut down the internet
++ **Source code:** [code.briarproject.org/briar/briar](https://code.briarproject.org/briar/briar)
+
+and
+
++ **Name:** Signal
++ **Availability:** [Signal Messenger](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) on Play Store
++ **Feature highlights:** Phone and Video conferences
++ **Source code:** [github.com/signalapp](https://github.com/signalapp)
+
+
+## Podcasts
+
+Downloading and streaming podcasts.
+
++ **Name:** AntennaPod
++ **Availability:** [AntennaPod](https://f-droid.org/packages/de.danoeh.antennapod/) on F-Droid
++ **Feature highlights:** Modern interface, theming
++ **Source code:** [github.com/AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod)
+
+
+## Radio
+
+Listening to online radio stations world wide.
+
++ **Name:** RadioDroid
++ **Availability:** [RadioDroid](https://f-droid.org/packages/net.programmierecke.radiodroid2/) on F-Droid
++ **Feature highlights:** Modern interface
++ **Source code:** [github.com/segler-alex/RadioDroid](https://github.com/segler-alex/RadioDroid)
+
+
+## Navigation
+
+Navigation and maps.
+
++ **Name:** OsmAnd~
++ **Availability:** [OsmAnd~ Plus](https://f-droid.org/packages/net.osmand.plus/) on F-Droid
++ **Feature highlights:** Offline navigation, high customizability
++ **Source code:** [github.com/osmandapp/Osmand](https://github.com/osmandapp/Osmand)
+
+
+## Calculator
+
+Calculations of any kind.
+
++ **Name:** Calculator++
++ **Availability:** [Calculator++](https://f-droid.org/packages/org.solovyev.android.calculator/) on F-Droid
++ **Feature highlights:** Real scientific calculator, great UI
++ **Source code:** [github.com/Bubu/android-calculatorpp](https://github.com/Bubu/android-calculatorpp)
+
+## YouTube
+
+Watching videos on YouTube.
+
++ **Name:** NewPipe
++ **Availability:** NewPipe can be installed from F-Droid
++ **Feature highlights:** Great performance, more privacy
++ **Source code:** [github.com/TeamNewPipe/NewPipe/](https://github.com/TeamNewPipe/NewPipe/)
+
+**Additional steps**
+
+You can install **NewPipe** from F-Droid. But since YouTube often changes its API's it is much better to always
+have the latest NewPipe installed. The newest version has some days delay on the official F-Droid repository,
+therefore we do the following:
+
+1. Add the official [NewPipe F-Droid Repository](https://newpipe.net/FAQ/tutorials/install-add-fdroid-repo/) to our F-Droid.
+2. Refresh the repositories (draw down from the top in the first F-Droid tab)
+3. Search for and install NewPipe
+
+
+## Feed Reader (RSS/Atom)
+
+Keeping up to date with projects you are interested in.
+
++ **Name:** spaRSS
++ **Availability:** [spaRSS](https://f-droid.org/packages/net.etuldan.sparss.floss/) on F-Droid
++ **Feature highlights:** Great and simple reader
++ **Source code:** [github.com/Etuldan/spaRSS](https://github.com/Etuldan/spaRSS)
+
+
+## Password Manager
+
+Managing and generating strong passwords and login credentials.
+
++ **Name:** KeePassDX
++ **Availability:** [KeePassDX](https://f-droid.org/packages/com.kunzisoft.keepass.libre/) on F-Droid
++ **Feature highlights:** Modern UI, compatible with desktop KeePass
++ **Source code:** [github.com/Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX)
+
+
+**Additional steps**
+
+Take your time to read through the instructions and information in the wiki to properly setup you password manager.
+
+
+## Document Viewer (PDF, ...)
+
+Viewing several document formats.
+
++ **Name:** MuPDF
++ **Availability:** [MuPDF](https://f-droid.org/packages/com.artifex.mupdf.viewer.app/) on F-Droid
++ **Feature highlights:** Very lightweight
++ **Source code:** [git.ghostscript.com/?p=mupdf-android-viewer.git;a=summary](https://git.ghostscript.com/?p=mupdf-android-viewer.git;a=summary)
+
+
+## Keyboard
+
+Writing.
+
++ **Name:** Open Board
++ **Availability:** [Open Board](https://f-droid.org/packages/org.dslul.openboard.inputmethod.latin/) on F-Droid
++ **Feature highlights:** Lightweight, simple, multi-language
++ **Source code:** [github.com/dslul/openboard](https://github.com/dslul/openboard)
+
+
+## SMS
+
+Writing and receiving SMS.
+
++ **Name:** QKSMS
++ **Availability:** [QKSMS](https://f-droid.org/de/packages/com.moez.QKSMS/) on F-Droid
++ **Feature highlights:** Lightweight, archiving function
++ **Source code:** [github.com/moezbhatti/qksms](https://github.com/moezbhatti/qksms)
 
 
