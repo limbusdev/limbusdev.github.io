@@ -397,3 +397,11 @@ Writing and receiving SMS.
 + **Source code:** [github.com/moezbhatti/qksms](https://github.com/moezbhatti/qksms)
 
 
+## QR Code Scanner
+
+Scanning QR codes and opening links.
+
++ **Name:** QR Scanner
++ **Availability:** [QR Scanner](https://f-droid.org/packages/com.secuso.privacyFriendlyCodeScanner/) on F-Droid
++ **Feature highlights:** Displays link before opening it
++ **Source code:** [github.com/SecUSo/privacy-friendly-qr-scanner](https://github.com/SecUSo/privacy-friendly-qr-scanner)
