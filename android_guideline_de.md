@@ -172,19 +172,19 @@ Browsing the web.
 
 + **Name:** Firefox (Fennec)
 + **Verfügbarkeit:**
-  - [Fennec (Firefox without proprietary bits)](https://f-droid.org/packages/org.mozilla.fennec_fdroid/) on F-Droid
-  - [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox) on Play Store
-+ **Alleinstellungsmerkmal:** Address and toolbar at the bottom, dark mode, the only trustworthy among the big players
+  - [Fennec (Firefox without proprietary bits)](https://f-droid.org/packages/org.mozilla.fennec_fdroid/) in F-Droid
+  - [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox) im Play Store
++ **Alleinstellungsmerkmal:** Adress- und Werkzeugleiste unten, dunkler Modus, einziger vertrauenswürdiger Browser unter den "Großen"
 + **Quellcode:** [hg.mozilla.org/mozilla-central](https://hg.mozilla.org/mozilla-central/)
 
-**Additional steps**
+**Weitere Schritte**
 
-1. Set your default search engine to **DuckDuckGo**, **Ecosia** or **Qwant**.
+Ändere die Standardsuchmaschine auf **DuckDuckGo**, **Ecosia** oder **Qwant**.
 
 
-## Launcher
+## Launcher (Desktop)
 
-Using you smartphone or tablet. Managing you start screen, app drawer, widgets and wallpapers.
+Verwenden deines Smartphones oder Tablets. Verwaltung des Startbildschirms, der App-Übersicht, von Widgets und Hintergründen.
 
 + **Name:** Lawnchair Launcher v2
 + **Verfügbarkeit:** [Lawnchair v2](https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah) on Play Store
