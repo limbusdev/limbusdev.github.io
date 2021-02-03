@@ -5,13 +5,13 @@
 # Android-Leitfaden
 
 > **ACHTUNG:** Ich übernehme keinerlei Verantwortung für etwaige Schäden, die durch das Befolgen dieses Leitfades
-> entstehen. Denk selbst nach, bevor du die empfohlenen Schritte durchführst. Lege Updates an um sicherzugehen.
+> entstehen. Denk' selbst nach, bevor du die empfohlenen Schritte durchführst. Lege Datensicherungen an, um sicherzugehen.
 
 
 # Warum Datenschutz uns alle etwas angeht
 
 Apps mit nicht veröffentlichtem Quelltext sind nicht automatisch schlecht. Wenn sie kostenlos sind, werden
-sie jedoch meist über Werbung und das Auswerten von Nutzer abgezogener Daten finanziert. Das mag in Ordnung
+sie jedoch meist über Werbung und das Auswerten der von Nutzern abgezogenen Daten finanziert. Das mag in Ordnung
 sein, solange es wirklich nur um die Anzeige von Werbung geht. Sobald dadurch aber Freiheit und Leben von
 Menschen bedroht werden - z.B. weil Betreiber Daten an repressive Regierungen weitergeben - hört der Spaß auf.
 Als Nutzer müssen wir handeln, bevor es so weit kommt. Niemand hat das Recht uns ohne unser Wissen auszuhorchen,
@@ -25,20 +25,10 @@ die wir auf unseren Geräten haben verantwortlich.
 
 Dieser Leitfaden gibt einen kurzen Überblick, was jeder Einzelne ohne viel Aufwand tun kann und welche Apps man
 statt der weithin bekannten und weit verbreiteten verwenden kann um seine Daten zumindest ein Stück weit vor
-Unbefugten Augen und Ohren zu schützen.
+unbefugten Augen und Ohren zu schützen.
 
 Über das Thema wurde schon unglaublich viel geschrieben - und das mit weit tiefgehender Recherche als ich sie
 betreiben kann. Daher will ich meine Ausführungen hier beenden und für Interessierte auf folgende Quellen verweisen:
-
-
-
-Closed source apps often contain trackers to display the the right advertisements, identify you throughout
-the web, to analyze where you go, what you like and who you know. This might seem ok, as long as the only
-use is to display you the right advertisements. But this means you allow anyone to known almost anything
-about you. 
-
-Its not about seeing no ads but has much wider implications like freedom and human rights. Enough has been
-written on the matter and I don't want to do it again here.
 
 + [Human Rights Watch: Sicherheit und Rechte online schützen](https://www.hrw.org/de/news/2018/12/11/sicherheit-und-rechte-online-schuetzen)
 
