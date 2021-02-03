@@ -283,7 +283,7 @@ and
 + **Source code:** [github.com/signalapp](https://github.com/signalapp)
 
 
-## SMS
+### SMS
 
 Writing and receiving SMS.
 
