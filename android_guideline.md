@@ -103,7 +103,8 @@ Using you smartphone or tablet. Managing you start screen, app drawer, widgets a
 
 > **HINT:** Unfortunately the development is dead right now and it works only with Android <= 10. For Android >= 11
 > use its fork [Omega Launcher](https://github.com/otakuhqz/Omega) which is available via the [IzzyOnDroid](https://www.izzysoft.de/)
-> [F-Droid repository](https://apt.izzysoft.de/fdroid/) only.
+> [F-Droid repository](https://apt.izzysoft.de/fdroid/) only. It is not as stable as Lawnchair, but under active
+> development.
 
 **Additional steps**
 
