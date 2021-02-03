@@ -47,6 +47,59 @@ You will have to give F-Droid the permission to install apps from unknown source
 After restarting F-Droid you are ready to explore its list of apps and install whatever you like.
 
 
+# The Cloud
+
+It's convenient to have your contatcs, photos, notes and calendars in the cloud. You may lose your phone or pc,
+but your data is still accessible. By default all this is automatically uploaded to Google or other services
+pre-installed by your smartphone manufacturer. The cloud provider then analyzes your data to show you advertisements,
+incluence what you see in a search engine or even change the route your navigation app calculates, to lead you along
+a store you might like.
+
+In a country where data protection laws are weaker than in the EU your provider might hand over your data to political
+opponents or the government which can use it to put you to jail.
+
+Long story short, there are many reasons why you should stay in charge of your own data. There is a handful of steps
+you need to follow, to gain back control over your data.
+
+## Remove cloud services
+
+Uninstall all apps and services that might upload your data against your will to some companies servers.
+Navigate to *"Android Settings" > "Apps" > "Show system apps"* and remove or de-activate at least the following apps:
+
++ GMail
++ Google
++ Google Calendar
++ Google Photos
++ Google Calendar-Syncing
++ Google Contact-Syncing
+
+No worries. You'll find apps to replace these in the app list in the next chapter.
+
+
+## Get a trustworthy cloud provider
+
+If you don't want to use a cloud, you can stop here and go to the next chapter.
+
+Else you need a new cloud provider. Either search the web for a trustworthy **Nextcloud** provider or setup your own cloud
+with a Raspberry Pi or a pre-configured home cloud device.
+
+If you just want to synchronize Contacts, Calendars and Tasks there are many free choices online. If you want to backup
+your photos as well, you'll probably need a paid plan.
+
+
+## Sync your device with your cloud
+
+In the last step we install **DavX5**. This app synchronizes your Nextcloud instance with your smartphone/tablet and even PC.
+
+1. Install [DevX5](https://f-droid.org/de/packages/at.bitfire.davdroid/) from F-Droid
+2. Go through the setup assistent
+3. Disable battery optimization for this app
+
+That's it. You can now sync your data with a cloud service you can trust. See the [curated app list](#Curated-App-List) for
+apps to use with this setup.
+
+
+
 # Curated App List
 
 This list contains apps for everyday use. All entries have been tested for stability, user-friendliness and
@@ -145,6 +198,14 @@ Receiving and sending E-Mails.
 + **Feature highlights:** Displays E-Mail in an easy to read layout, block trackers and helps the user with identifying phishing mails
 + **Source code:** [github.com/M66B/FairEmail](https://github.com/M66B/FairEmail/)
 
+
+## Cloud
+
+
+## Phone / Dialer & Contacts
+
+
+## Inst
 
 
 
