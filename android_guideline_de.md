@@ -420,3 +420,12 @@ Schreiben und Empfangen von SMS.
 + **Quellcode:** [github.com/moezbhatti/qksms](https://github.com/moezbhatti/qksms)
 
 
+## QR Code Scanner
+
+Einlesen von QR-Codes und deren Link folgen.
+
++ **Name:** QR Scanner
++ **Verfügbarkeit:** [QR Scanner](https://f-droid.org/de/packages/com.secuso.privacyFriendlyCodeScanner/) in F-Droid
++ **Verfügbarkeit:** Zeigt Link an, damit er vor dem Öffnen geprüft werden kann
++ **Quellcode:** [github.com/SecUSo/privacy-friendly-qr-scanner](https://github.com/SecUSo/privacy-friendly-qr-scanner)
+
