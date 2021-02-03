@@ -155,7 +155,12 @@ Using you smartphone or tablet. Managing you start screen, app drawer, widgets a
 
 + **Name:** Lawnchair Launcher v2
 + **Availability:** [Lawnchair v2](https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah) on Play Store
-+ **Feature highlights:** Almost everything can be customized
++ **Feature highlights:** Almost everything can be customized,
+  - custom icons,
+  - hiding apps,
+  - setting adaptive icon shapes,
+  - managing drawer categories,
+  - ...
 + **Source code:** [github.com/LawnchairLauncher/Lawnchair](https://github.com/LawnchairLauncher/Lawnchair)
 
 > **HINT:** Unfortunately the development is dead right now and it works only with Android <= 10. For Android >= 11
