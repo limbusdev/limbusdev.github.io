@@ -4,7 +4,11 @@
 + [Why choosing the right apps matters](#Why-choosing-the-right-apps-matters)
 + [Donations](#Donations)
 + [App Store](#App-Store)
-  - [Installation](##Installation)
+  - [Installation](#Installation)
++ [The Cloud](#the-cloud)
+  - [Remove cloud services]()
+  - [Get a trustworthy cloud provider]()
+  - [Sync your device with your cloud]()
 
 # Android Guideline
 
