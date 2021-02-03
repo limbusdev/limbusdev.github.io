@@ -59,6 +59,53 @@ Each entry contains information about:
 + where to read its source,
 + feature highlights.
 
+
 ## File Manager
 
+For all file managing tasks (browsing, copying, deleting, moving, ...).
+
++ **Name:** Simple File Manager Pro
++ **Availability:**
+  - [Simple File Manager](https://f-droid.org/en/packages/com.simplemobiletools.filemanager.pro/) on F-Droid (install [Simple Thank You](https://f-droid.org/en/packages/com.simplemobiletools.thankyou/) as well to get pro features)
+  - [Simple File Manager Pro](https://play.google.com/store/apps/details?id=com.simplemobiletools.filemanager.pro) (ca. 1€) on Play Store
++ **Feature highlights:** Theming support
++ **Source code:** [github.com/SimpleMobileTools/Simple-File-Manager](https://github.com/SimpleMobileTools/Simple-File-Manager)
+
+> **HINT:** Please donate some money at [SimpleMobileTools](https://www.simplemobiletools.com/) if you plan to use the pro features. You can get the pro
+> features for free on F-Droid. But it's just fair to donate some € if you can afford it (and I think everyone can).
+
+
+## Browser
+
+Browsing the web.
+
++ **Name:** Firefox (Fennec)
++ **Availability:**
+  - [Fennec (Firefox without proprietary bits)](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) on F-Droid
+  - [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox) on Play Store
++ **Feature highlights:** Address and toolbar at the bottom, dark mode, the only trustworthy among the big players
++ **Source code:** [hg.mozilla.org/mozilla-central](https://hg.mozilla.org/mozilla-central/)
+
+**Additional steps**
+
+1. Set your default search engine to **DuckDuckGo**, **Ecosia** or **Qwant**.
+
+
+## Launcher
+
+Using you smartphone or tablet. Managing you start screen, app drawer, widgets and wallpapers.
+
++ **Name:** Lawnchair Launcher v2
++ **Availability:**
+  - [Lawnchair v2](https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah) on Play Store
++ **Feature highlights:** Almost everything can be customized
++ **Source code:** [github.com/LawnchairLauncher/Lawnchair](https://github.com/LawnchairLauncher/Lawnchair)
+
+> **HINT:** Unfortunately the development is dead right now and it works only with Android <= 10. For Android >= 11
+> use its fork [Omega Launcher](https://github.com/otakuhqz/Omega) which is available via the [IzzyOnDroid](https://www.izzysoft.de/)
+> [F-Droid repository](https://apt.izzysoft.de/fdroid/) only.
+
+**Additional steps**
+
+Customize the launcher how you like.
 
