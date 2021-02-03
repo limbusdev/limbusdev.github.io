@@ -129,7 +129,6 @@ Das war's. Du kannst nun deine Daten mit dem Cloud-Anbieter deines Vertrauens sy
 [ausgewählten Apps](#Ausgew&umla;hlte-Apps) an, um Apps zu finden, die mit diesem Setup harmonieren.
 
 
-
 # Ausgewählte Apps
 
 Diese Liste enthält Apps die für die tagtägliche Nutzung geeignet sind. Ich selbst verwende alle Apps
@@ -143,36 +142,9 @@ Jeder Eintrag enthält Information über:
 + wo man den Quelltext einsehen kann,
 + etwaige Alleinstellungsmerkmale.
 
+## Allgemeiner Nutzen
 
-## Dateimanager
-
-Für alle Dateiverwaltungsaufgaben (durchsuchen, kopieren, löschen, verschieben, ...).
-
-+ **Name:** Schlichter Dateimanager Pro
-+ **Verfügbarkeit:**
-  - [Schlichter Dateimanager Pro](https://f-droid.org/de/packages/com.simplemobiletools.filemanager.pro/) in F-Droid (installiere [Schlichtes Dankeschön](https://f-droid.org/de/packages/com.simplemobiletools.thankyou/) um Pro-Funktionen zu nutzen)
-  - [Schlichter Dateimanager Pro](https://play.google.com/store/apps/details?id=com.simplemobiletools.filemanager.pro) (ca. 1€) im Play Store
-+ **Alleinstellungsmerkmal:** Themes
-+ **Quellcode:** [github.com/SimpleMobileTools/Simple-File-Manager](https://github.com/SimpleMobileTools/Simple-File-Manager)
-
-
-## Browser
-
-Browsing the web.
-
-+ **Name:** Firefox (Fennec)
-+ **Verfügbarkeit:**
-  - [Fennec (Firefox ohne proprietäre Komponenten)](https://f-droid.org/de/packages/org.mozilla.fennec_fdroid/) in F-Droid
-  - [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox) im Play Store
-+ **Alleinstellungsmerkmal:** Adress- und Werkzeugleiste unten, dunkler Modus, einziger vertrauenswürdiger Browser unter den "Großen"
-+ **Quellcode:** [hg.mozilla.org/mozilla-central](https://hg.mozilla.org/mozilla-central/)
-
-**Weitere Schritte**
-
-Ändere die Standardsuchmaschine auf **DuckDuckGo**, **Ecosia** oder **Qwant**.
-
-
-## Launcher (Desktop)
+### Launcher (Desktop)
 
 Verwenden deines Smartphones oder Tablets. Verwaltung des Startbildschirms, der App-Übersicht, von Widgets und Hintergründen.
 
@@ -196,7 +168,236 @@ Verwenden deines Smartphones oder Tablets. Verwaltung des Startbildschirms, der 
 Den Launcher nach eigenem Geschmack einstellen.
 
 
-## Datenverkehr filtern
+### Browser
+
+Browsing the web.
+
++ **Name:** Firefox (Fennec)
++ **Verfügbarkeit:**
+  - [Fennec (Firefox ohne proprietäre Komponenten)](https://f-droid.org/de/packages/org.mozilla.fennec_fdroid/) in F-Droid
+  - [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox) im Play Store
++ **Alleinstellungsmerkmal:** Adress- und Werkzeugleiste unten, dunkler Modus, einziger vertrauenswürdiger Browser unter den "Großen"
++ **Quellcode:** [hg.mozilla.org/mozilla-central](https://hg.mozilla.org/mozilla-central/)
+
+**Weitere Schritte**
+
+Ändere die Standardsuchmaschine auf **DuckDuckGo**, **Ecosia** oder **Qwant**.
+
+
+### Dateimanager
+
+Für alle Dateiverwaltungsaufgaben (durchsuchen, kopieren, löschen, verschieben, ...).
+
++ **Name:** Schlichter Dateimanager Pro
++ **Verfügbarkeit:**
+  - [Schlichter Dateimanager Pro](https://f-droid.org/de/packages/com.simplemobiletools.filemanager.pro/) in F-Droid (installiere [Schlichtes Dankeschön](https://f-droid.org/de/packages/com.simplemobiletools.thankyou/) um Pro-Funktionen zu nutzen)
+  - [Schlichter Dateimanager Pro](https://play.google.com/store/apps/details?id=com.simplemobiletools.filemanager.pro) (ca. 1€) im Play Store
++ **Alleinstellungsmerkmal:** Themes
++ **Quellcode:** [github.com/SimpleMobileTools/Simple-File-Manager](https://github.com/SimpleMobileTools/Simple-File-Manager)
+
+
+## Werkzeuge
+
+### Kalender
+
+Termine und Geburtstage verwalten.
+
++ **Name:** Etar
++ **Verfügbarkeit:** [Etar](https://f-droid.org/de/packages/ws.xsoh.etar/) in F-Droid
++ **Alleinstellungsmerkmal:** Mit Widgets
++ **Quellcode:** [github.com/Etar-Group/Etar-Calendar](https://github.com/Etar-Group/Etar-Calendar)
+
+oder
+
++ **Name:** Schlichter Kalender
++ **Verfügbarkeit:**
+  - [Schlichter Kalender Pro](https://f-droid.org/de/packages/com.simplemobiletools.calendar.pro/) in F-Droid (installiere [Schlichtes Dankeschön](https://f-droid.org/de/packages/com.simplemobiletools.thankyou/) um Pro-Funktionen zu nutzen)
+  - [Schlichter Kalender Pro](https://play.google.com/store/apps/details?id=com.simplemobiletools.calendar.pro) (ca. 1€) im Play Store
++ **Alleinstellungsmerkmal:** Themes, Widgets
++ **Quellcode:** [github.com/SimpleMobileTools](https://github.com/SimpleMobileTools)
+
+
+### Navigation
+
+Karten und Navigation.
+
++ **Name:** OsmAnd~
++ **Verfügbarkeit:** [OsmAnd~ Plus](https://f-droid.org/de/packages/net.osmand.plus/) in F-Droid
++ **Alleinstellungsmerkmal:** Offline-Navigation, hochkonfigurierbar
++ **Quellcode:** [github.com/osmandapp/Osmand](https://github.com/osmandapp/Osmand)
+
+
+### Taschenrechner
+
+Alle mögliche Berechnungen.
+
++ **Name:** Calculator++
++ **Verfügbarkeit:** [Calculator++](https://f-droid.org/de/packages/org.solovyev.android.calculator/) in F-Droid
++ **Alleinstellungsmerkmal:** Echter wissenschaftlicher Taschenrechner
++ **Quellcode:** [github.com/Bubu/android-calculatorpp](https://github.com/Bubu/android-calculatorpp)
+
+
+### Tastatur
+
+Schreiben.
+
++ **Name:** Open Board
++ **Verfügbarkeit:** [Open Board](https://f-droid.org/de/packages/org.dslul.openboard.inputmethod.latin/) in F-Droid
++ **Alleinstellungsmerkmal:** Mehrere Sprachen gleichzeitig
++ **Quellcode:** [github.com/dslul/openboard](https://github.com/dslul/openboard)
+
+
+### QR Code Scanner
+
+Einlesen von QR-Codes und deren Link folgen.
+
++ **Name:** QR Scanner
++ **Verfügbarkeit:** [QR Scanner](https://f-droid.org/de/packages/com.secuso.privacyFriendlyCodeScanner/) in F-Droid
++ **Verfügbarkeit:** Zeigt Link an, damit er vor dem Öffnen geprüft werden kann
++ **Quellcode:** [github.com/SecUSo/privacy-friendly-qr-scanner](https://github.com/SecUSo/privacy-friendly-qr-scanner
+
+
+## Kommunikation
+
+### Telefon & Kontakte
+
+Anrufen, Durchsuchen und Verwalten von Kontakten. Dieser Eintrag besteht aus zwei Apps, die am besten zusammen installiert werden.
+Calling people, browsing and editing contacts. This entry consists of two apps that are best used together.
+
++ **Name:** Schlichtes Telefon und Schlichte Kontakte aus der [SimpleMobileTools-App-Suite](https://www.simplemobiletools.com/)
++ **Verfügbarkeit:**
+  - [Schlichtes Telefon](https://f-droid.org/de/packages/com.simplemobiletools.dialer/) und [Schlichte Kontakte Pro](https://f-droid.org/de/packages/com.simplemobiletools.contacts.pro/) in F-Droid (installiere [Schlichtes Dankeschön](https://f-droid.org/de/packages/com.simplemobiletools.thankyou/) um Pro-Funktionen zu nutzen)
+  - [Schlichtes Telefon](https://play.google.com/store/apps/details?id=com.simplemobiletools.dialer) und [Schlichte Kontakte Pro](https://play.google.com/store/apps/details?id=com.simplemobiletools.contacts.pro) (ca. 1€) im Play Store
++ **Alleinstellungsmerkmal:** Themes, Kontaktlisten wählen (Cloud, SIM, Konten, ...)
++ **Quellcode:** [github.com/SimpleMobileTools](https://github.com/SimpleMobileTools)
+
+
+### E-Mail
+
+Empfangen und Versenden von E-Mails.
+
++ **Name:** FairEmail
++ **Verfügbarkeit:**
+  - [FairEmail](https://f-droid.org/de/packages/eu.faircode.email/) in F-Droid
+  - [FairEmail](https://play.google.com/store/apps/details?id=eu.faircode.email) im Play Store
++ **Alleinstellungsmerkmal:** Konvertiert E-Mails in eine gut lesbare Form, blockiert Tracker und hilft dabei Phishing-Mails zu erkennen
++ **Quellcode:** [github.com/M66B/FairEmail](https://github.com/M66B/FairEmail/)
+
+
+### Sofortnachrichten
+
+Verschlüsselte Sofortnachrichten (Alternative zu WhatsApp und Telegram).
+
++ **Name:** Briar
++ **Verfügbarkeit:** [Briar](https://f-droid.org/de/packages/org.briarproject.briar.android/) in F-Droid
++ **Alleinstellungsmerkmal:** Serverlose Direktnachrichten, Blogs und Foren, funktioniert sogar, wenn Regierungen das Internet abschalten
++ **Quellcode:** [code.briarproject.org/briar/briar](https://code.briarproject.org/briar/briar)
+
+und
+
++ **Name:** Signal
++ **Verfügbarkeit:** [Signal Messenger](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) im Play Store
++ **Alleinstellungsmerkmal:** Chats, Gruppenchats, Telefon- und Videokonferenzen
++ **Quellcode:** [github.com/signalapp](https://github.com/signalapp)
+
+
+### SMS
+
+Schreiben und Empfangen von SMS.
+
++ **Name:** QKSMS
++ **Verfügbarkeit:** [QKSMS](https://f-droid.org/de/packages/com.moez.QKSMS/) in F-Droid
++ **Alleinstellungsmerkmal:** Leicht, Themes
++ **Quellcode:** [github.com/moezbhatti/qksms](https://github.com/moezbhatti/qksms)
+
+
+## Multimedia
+
+### Galerie
+
+Betrachten und Verwalten eigener Fotos und Videos.
+
++ **Name:** Schlichte Galerie
++ **Verfügbarkeit:**
+  - [Schlichte Galerie Pro](https://f-droid.org/de/packages/com.simplemobiletools.gallery.pro/) in F-Droid (installiere [Schlichtes Dankeschön](https://f-droid.org/de/packages/com.simplemobiletools.thankyou/) um Pro-Funktionen zu nutzen)
+  - [Schlichte Galerie Pro](https://play.google.com/store/apps/details?id=com.simplemobiletools.gallery.pro) (ca. 1€) im Play Store
++ **Alleinstellungsmerkmal:** Themes, Ein- und Ausschließen bestimmter Verzeichnisse
++ **Quellcode:** [github.com/SimpleMobileTools](https://github.com/SimpleMobileTools)
+
+
+### Musik
+
+Lokal gespeicherte Musik abspielen.
+
++ **Name:** Vinyl Music Player
++ **Verfügbarkeit:** [Vinyl Music Player](https://f-droid.org/de/packages/com.poupa.vinylmusicplayer/) in F-Droid
++ **Alleinstellungsmerkmal:** Cover Art
++ **Quellcode:** [github.com/AdrienPoupa/VinylMusicPlayer](https://github.com/AdrienPoupa/VinylMusicPlayer)
+
+
+### Podcasts
+
+Download und Streamen von Podcasts.
+
++ **Name:** AntennaPod
++ **Verfügbarkeit:** [AntennaPod](https://f-droid.org/de/packages/de.danoeh.antennapod/) in F-Droid
++ **Alleinstellungsmerkmal:** Themes, modernes Interface
++ **Quellcode:** [github.com/AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod)
+
+
+### Radio
+
+Online-Radio weltweit hören.
+
++ **Name:** RadioDroid
++ **Verfügbarkeit:** [RadioDroid](https://f-droid.org/de/packages/net.programmierecke.radiodroid2/) in F-Droid
++ **Alleinstellungsmerkmal:** Moderne Oberfläche
++ **Quellcode:** [github.com/segler-alex/RadioDroid](https://github.com/segler-alex/RadioDroid)
+
+
+### YouTube
+
+Videos auf YouTube anschauen.
+
++ **Name:** NewPipe
++ **Verfügbarkeit:** NewPipe kann mit F-Droid installiert werden
++ **Alleinstellungsmerkmal:** Gute Performance, mehr Privatsphäre
++ **Quellcode:** [github.com/TeamNewPipe/NewPipe/](https://github.com/TeamNewPipe/NewPipe/)
+
+**Weitere Schritte**
+
+**NewPipe** kann via F-Droid installiert werden. Da YoutTube oft die APIs verändert, sollte man jedoch stets die
+aktuellste Version verwenden. Daher ist es besser die offizielle Paketquelle von NewPipe in F-Droids Einstellungen
+einzutragen:
+
+1. Offizielle [NewPipe F-Droid-Paketquelle](https://newpipe.net/FAQ/tutorials/install-add-fdroid-repo/) zu F-Droid hinzufügen
+2. Paketquellen aktualisieren (in erstem Reiter von oben runterziehen)
+3. Nach NewPipe suchen und installieren
+
+
+### Feed Reader (RSS/Atom)
+
+Immer auf dem neuesten Stand zu Projekten, die dich interressieren, bleiben.
+
++ **Name:** spaRSS
++ **Verfügbarkeit:** [spaRSS](https://f-droid.org/de/packages/net.etuldan.sparss.floss/) in F-Droid
++ **Alleinstellungsmerkmal:** Zuverlässiger Reader
++ **Quellcode:** [github.com/Etuldan/spaRSS](https://github.com/Etuldan/spaRSS)
+
+
+## Documenten-Betrachter (PDF, ...)
+
+Verschiedene Dokumentformate betrachten.
+
++ **Name:** MuPDF
++ **Verfügbarkeit:** [MuPDF](https://f-droid.org/de/packages/com.artifex.mupdf.viewer.app/) in F-Droid
++ **Alleinstellungsmerkmal:** Leichtgewichtig
++ **Quellcode:** [git.ghostscript.com/?p=mupdf-android-viewer.git;a=summary](https://git.ghostscript.com/?p=mupdf-android-viewer.git;a=summary)
+
+
+## Privatsphäre und Sicherheit
+
+### Datenverkehr filtern
 
 Verfolgung stoppen und Adressen blockieren, die dafür bekannt sind Privatsphäre, Sicherheit und Performance in nicht zu rechtfertigender
 Weise zu unterlaufen.
@@ -220,162 +421,8 @@ Weise zu unterlaufen.
   + medium: DuckDuckGo + Phishing Army + Exodus Privacy
   + maximum: DuckDuckGo + Phishing Army + Exodus Privacy + irgendeine Energized-Liste
   
-  
 
-## E-Mail
-
-Empfangen und Versenden von E-Mails.
-
-+ **Name:** FairEmail
-+ **Verfügbarkeit:**
-  - [FairEmail](https://f-droid.org/de/packages/eu.faircode.email/) in F-Droid
-  - [FairEmail](https://play.google.com/store/apps/details?id=eu.faircode.email) im Play Store
-+ **Alleinstellungsmerkmal:** Konvertiert E-Mails in eine gut lesbare Form, blockiert Tracker und hilft dabei Phishing-Mails zu erkennen
-+ **Quellcode:** [github.com/M66B/FairEmail](https://github.com/M66B/FairEmail/)
-
-
-## Telefon & Kontakte
-
-Anrufen, Durchsuchen und Verwalten von Kontakten. Dieser Eintrag besteht aus zwei Apps, die am besten zusammen installiert werden.
-Calling people, browsing and editing contacts. This entry consists of two apps that are best used together.
-
-+ **Name:** Schlichtes Telefon und Schlichte Kontakte aus der [SimpleMobileTools-App-Suite](https://www.simplemobiletools.com/)
-+ **Verfügbarkeit:**
-  - [Schlichtes Telefon](https://f-droid.org/de/packages/com.simplemobiletools.dialer/) und [Schlichte Kontakte Pro](https://f-droid.org/de/packages/com.simplemobiletools.contacts.pro/) in F-Droid (installiere [Schlichtes Dankeschön](https://f-droid.org/de/packages/com.simplemobiletools.thankyou/) um Pro-Funktionen zu nutzen)
-  - [Schlichtes Telefon](https://play.google.com/store/apps/details?id=com.simplemobiletools.dialer) und [Schlichte Kontakte Pro](https://play.google.com/store/apps/details?id=com.simplemobiletools.contacts.pro) (ca. 1€) im Play Store
-+ **Alleinstellungsmerkmal:** Themes, Kontaktlisten wählen (Cloud, SIM, Konten, ...)
-+ **Quellcode:** [github.com/SimpleMobileTools](https://github.com/SimpleMobileTools)
-
-
-## Galerie
-
-Betrachten und Verwalten eigener Fotos und Videos.
-
-+ **Name:** Schlichte Galerie
-+ **Verfügbarkeit:**
-  - [Schlichte Galerie Pro](https://f-droid.org/de/packages/com.simplemobiletools.gallery.pro/) in F-Droid (installiere [Schlichtes Dankeschön](https://f-droid.org/de/packages/com.simplemobiletools.thankyou/) um Pro-Funktionen zu nutzen)
-  - [Schlichte Galerie Pro](https://play.google.com/store/apps/details?id=com.simplemobiletools.gallery.pro) (ca. 1€) im Play Store
-+ **Alleinstellungsmerkmal:** Themes, Ein- und Ausschließen bestimmter Verzeichnisse
-+ **Quellcode:** [github.com/SimpleMobileTools](https://github.com/SimpleMobileTools)
-
-
-## Musik
-
-Lokal gespeicherte Musik abspielen.
-
-+ **Name:** Vinyl Music Player
-+ **Verfügbarkeit:** [Vinyl Music Player](https://f-droid.org/de/packages/com.poupa.vinylmusicplayer/) in F-Droid
-+ **Alleinstellungsmerkmal:** Cover Art
-+ **Quellcode:** [github.com/AdrienPoupa/VinylMusicPlayer](https://github.com/AdrienPoupa/VinylMusicPlayer)
-
-
-## Kalender
-
-Termine und Geburtstage verwalten.
-
-+ **Name:** Etar
-+ **Verfügbarkeit:** [Etar](https://f-droid.org/de/packages/ws.xsoh.etar/) in F-Droid
-+ **Alleinstellungsmerkmal:** Mit Widgets
-+ **Quellcode:** [github.com/Etar-Group/Etar-Calendar](https://github.com/Etar-Group/Etar-Calendar)
-
-oder
-
-+ **Name:** Schlichter Kalender
-+ **Verfügbarkeit:**
-  - [Schlichter Kalender Pro](https://f-droid.org/de/packages/com.simplemobiletools.calendar.pro/) in F-Droid (installiere [Schlichtes Dankeschön](https://f-droid.org/de/packages/com.simplemobiletools.thankyou/) um Pro-Funktionen zu nutzen)
-  - [Schlichter Kalender Pro](https://play.google.com/store/apps/details?id=com.simplemobiletools.calendar.pro) (ca. 1€) im Play Store
-+ **Alleinstellungsmerkmal:** Themes, Widgets
-+ **Quellcode:** [github.com/SimpleMobileTools](https://github.com/SimpleMobileTools)
-
-
-## Sofortnachrichten
-
-Verschlüsselte Sofortnachrichten (Alternative zu WhatsApp und Telegram).
-
-+ **Name:** Briar
-+ **Verfügbarkeit:** [Briar](https://f-droid.org/de/packages/org.briarproject.briar.android/) in F-Droid
-+ **Alleinstellungsmerkmal:** Serverlose Direktnachrichten, Blogs und Foren, funktioniert sogar, wenn Regierungen das Internet abschalten
-+ **Quellcode:** [code.briarproject.org/briar/briar](https://code.briarproject.org/briar/briar)
-
-und
-
-+ **Name:** Signal
-+ **Verfügbarkeit:** [Signal Messenger](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) im Play Store
-+ **Alleinstellungsmerkmal:** Chats, Gruppenchats, Telefon- und Videokonferenzen
-+ **Quellcode:** [github.com/signalapp](https://github.com/signalapp)
-
-
-## Podcasts
-
-Download und Streamen von Podcasts.
-
-+ **Name:** AntennaPod
-+ **Verfügbarkeit:** [AntennaPod](https://f-droid.org/de/packages/de.danoeh.antennapod/) in F-Droid
-+ **Alleinstellungsmerkmal:** Themes, modernes Interface
-+ **Quellcode:** [github.com/AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod)
-
-
-## Radio
-
-Online-Radio weltweit hören.
-
-+ **Name:** RadioDroid
-+ **Verfügbarkeit:** [RadioDroid](https://f-droid.org/de/packages/net.programmierecke.radiodroid2/) in F-Droid
-+ **Alleinstellungsmerkmal:** Moderne Oberfläche
-+ **Quellcode:** [github.com/segler-alex/RadioDroid](https://github.com/segler-alex/RadioDroid)
-
-
-## Navigation
-
-Karten und Navigation.
-
-+ **Name:** OsmAnd~
-+ **Verfügbarkeit:** [OsmAnd~ Plus](https://f-droid.org/de/packages/net.osmand.plus/) in F-Droid
-+ **Alleinstellungsmerkmal:** Offline-Navigation, hochkonfigurierbar
-+ **Quellcode:** [github.com/osmandapp/Osmand](https://github.com/osmandapp/Osmand)
-
-
-## Taschenrechner
-
-Alle mögliche Berechnungen.
-
-+ **Name:** Calculator++
-+ **Verfügbarkeit:** [Calculator++](https://f-droid.org/de/packages/org.solovyev.android.calculator/) in F-Droid
-+ **Alleinstellungsmerkmal:** Echter wissenschaftlicher Taschenrechner
-+ **Quellcode:** [github.com/Bubu/android-calculatorpp](https://github.com/Bubu/android-calculatorpp)
-
-
-## YouTube
-
-Videos auf YouTube anschauen.
-
-+ **Name:** NewPipe
-+ **Verfügbarkeit:** NewPipe kann mit F-Droid installiert werden
-+ **Alleinstellungsmerkmal:** Gute Performance, mehr Privatsphäre
-+ **Quellcode:** [github.com/TeamNewPipe/NewPipe/](https://github.com/TeamNewPipe/NewPipe/)
-
-**Weitere Schritte**
-
-**NewPipe** kann via F-Droid installiert werden. Da YoutTube oft die APIs verändert, sollte man jedoch stets die
-aktuellste Version verwenden. Daher ist es besser die offizielle Paketquelle von NewPipe in F-Droids Einstellungen
-einzutragen:
-
-1. Offizielle [NewPipe F-Droid-Paketquelle](https://newpipe.net/FAQ/tutorials/install-add-fdroid-repo/) zu F-Droid hinzufügen
-2. Paketquellen aktualisieren (in erstem Reiter von oben runterziehen)
-3. Nach NewPipe suchen und installieren
-
-
-## Feed Reader (RSS/Atom)
-
-Immer auf dem neuesten Stand zu Projekten, die dich interressieren, bleiben.
-
-+ **Name:** spaRSS
-+ **Verfügbarkeit:** [spaRSS](https://f-droid.org/de/packages/net.etuldan.sparss.floss/) in F-Droid
-+ **Alleinstellungsmerkmal:** Zuverlässiger Reader
-+ **Quellcode:** [github.com/Etuldan/spaRSS](https://github.com/Etuldan/spaRSS)
-
-
-## Passwort-Manager
+### Passwort-Manager
 
 Verwalten und Generieren starker Passwörter und Logins.
 
@@ -390,42 +437,5 @@ Verwalten und Generieren starker Passwörter und Logins.
 Nimm dir die Zeit dich durch die Anleitungen und Informationen im Wiki zu lesen, um den Passwort-Manager korrekt aufzusetzen.
 
 
-## Documenten-Betrachter (PDF, ...)
 
-Verschiedene Dokumentformate betrachten.
-
-+ **Name:** MuPDF
-+ **Verfügbarkeit:** [MuPDF](https://f-droid.org/de/packages/com.artifex.mupdf.viewer.app/) in F-Droid
-+ **Alleinstellungsmerkmal:** Leichtgewichtig
-+ **Quellcode:** [git.ghostscript.com/?p=mupdf-android-viewer.git;a=summary](https://git.ghostscript.com/?p=mupdf-android-viewer.git;a=summary)
-
-
-## Tastatur
-
-Schreiben.
-
-+ **Name:** Open Board
-+ **Verfügbarkeit:** [Open Board](https://f-droid.org/de/packages/org.dslul.openboard.inputmethod.latin/) in F-Droid
-+ **Alleinstellungsmerkmal:** Mehrere Sprachen gleichzeitig
-+ **Quellcode:** [github.com/dslul/openboard](https://github.com/dslul/openboard)
-
-
-## SMS
-
-Schreiben und Empfangen von SMS.
-
-+ **Name:** QKSMS
-+ **Verfügbarkeit:** [QKSMS](https://f-droid.org/de/packages/com.moez.QKSMS/) in F-Droid
-+ **Alleinstellungsmerkmal:** Leicht, Themes
-+ **Quellcode:** [github.com/moezbhatti/qksms](https://github.com/moezbhatti/qksms)
-
-
-## QR Code Scanner
-
-Einlesen von QR-Codes und deren Link folgen.
-
-+ **Name:** QR Scanner
-+ **Verfügbarkeit:** [QR Scanner](https://f-droid.org/de/packages/com.secuso.privacyFriendlyCodeScanner/) in F-Droid
-+ **Verfügbarkeit:** Zeigt Link an, damit er vor dem Öffnen geprüft werden kann
-+ **Quellcode:** [github.com/SecUSo/privacy-friendly-qr-scanner](https://github.com/SecUSo/privacy-friendly-qr-scanner)
 
