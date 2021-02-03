@@ -1,3 +1,5 @@
+*[Home](./index.md) > [Android Guideline (en)](./android_guideline.md)*
+
 # Android Guideline
 
 > **WARNING:** I take absolutely no responsibility for any damage done by following this guideline. Think for
@@ -5,6 +7,16 @@
 
 
 # Why choosing the right apps matters
+
+Closed source apps often contain trackers to display the the right advertisements, identify you throughout
+the web, to analyze where you go, what you like and who you know. This might seem ok, as long as the only
+use is to display you the right advertisements. But this means you allow anyone to known almost anything
+about you. 
+
+Its not about seeing no ads but has much wider implications like freedom and human rights. Enough has been
+written on the matter and I don't want to do it again here.
+
+Read [why privacy matters at privacyinternational.org](https://privacyinternational.org/learning-resources/privacy-matters) to learn more.
 
 
 # App Store
@@ -36,3 +48,17 @@ After restarting F-Droid you are ready to explore its list of apps and install w
 
 
 # Curated App List
+
+This list contains apps for everyday use. All entries have been tested for stability, user-friendliness and
+privacy and security aspects. Every app is able to replace your pre-installed app for the specific task.
+
+Each entry contains information about:
+
++ the app store to install it from,
++ what to use it for,
++ where to read its source,
++ feature highlights.
+
+## File Manager
+
+
