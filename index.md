@@ -14,6 +14,7 @@ title: limbusdev
 ## Guidelines
 
 + [Android Guideline (en)](./android_guideline.md)
++ [Android Guideline (de)](./android_guideline_de.md)
 
 
 ## Privacy Policies
