@@ -142,27 +142,28 @@ Das war's. Du kannst nun deine Daten mit dem Cloud-Anbieter deines Vertrauens sy
 
 # Ausgewählte Apps
 
-This list contains apps for everyday use. All entries have been tested for stability, user-friendliness and
-privacy and security aspects. Every app is able to replace your pre-installed app for the specific task.
+Diese Liste enthält Apps die für die tagtägliche Nutzung geeignet sind. Ich selbst verwende alle Apps
+regelmäßig und habe nur solche ausgewählt, die besonders stabil, intuitiv zu bedienen, halbwegs ästhetisch
+ansprechend und überwiegend aktiv entwickelt sind. Die Apps sind entsprechend ihres Einsatzzwecks aufgelistet.
 
-Each entry contains information about:
+Jeder Eintrag enthält Information über:
 
-+ the app store to install it from,
-+ what to use it for,
-+ where to read its source,
-+ feature highlights.
++ den App-Store, in dem die App zu erhalten ist,
++ den Einsatzweck,
++ wo man den Quelltext einsehen kann,
++ etwaige Alleinstellungsmerkmale.
 
 
-## File Manager
+## Dateimanager
 
-For all file managing tasks (browsing, copying, deleting, moving, ...).
+Für alle Dateiverwaltungsaufgaben (durchsuchen, kopieren, löschen, verschieben, ...).
 
-+ **Name:** Simple File Manager Pro
-+ **Availability:**
-  - [Simple File Manager](https://f-droid.org/packages/com.simplemobiletools.filemanager.pro/) on F-Droid (install [Simple Thank You](https://f-droid.org/en/packages/com.simplemobiletools.thankyou/) as well to get pro features)
-  - [Simple File Manager Pro](https://play.google.com/store/apps/details?id=com.simplemobiletools.filemanager.pro) (ca. 1€) on Play Store
-+ **Feature highlights:** Theming support
-+ **Source code:** [github.com/SimpleMobileTools/Simple-File-Manager](https://github.com/SimpleMobileTools/Simple-File-Manager)
++ **Name:** Schlichter Dateimanager Pro
++ **Verfügbarkeit:**
+  - [Schlichter Dateimanager Pro](https://f-droid.org/de/packages/com.simplemobiletools.filemanager.pro/) in F-Droid (installiere [Schlichtes Dankeschön](https://f-droid.org/de/packages/com.simplemobiletools.thankyou/) um Pro-Funktionen zu nutzen)
+  - [Schlichter Dateimanager Pro](https://play.google.com/store/apps/details?id=com.simplemobiletools.filemanager.pro) (ca. 1€) im Play Store
++ **Alleinstellungsmerkmal:** Themes
++ **Quellcode:** [github.com/SimpleMobileTools/Simple-File-Manager](https://github.com/SimpleMobileTools/Simple-File-Manager)
 
 
 ## Browser
@@ -170,11 +171,11 @@ For all file managing tasks (browsing, copying, deleting, moving, ...).
 Browsing the web.
 
 + **Name:** Firefox (Fennec)
-+ **Availability:**
++ **Verfügbarkeit:**
   - [Fennec (Firefox without proprietary bits)](https://f-droid.org/packages/org.mozilla.fennec_fdroid/) on F-Droid
   - [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox) on Play Store
-+ **Feature highlights:** Address and toolbar at the bottom, dark mode, the only trustworthy among the big players
-+ **Source code:** [hg.mozilla.org/mozilla-central](https://hg.mozilla.org/mozilla-central/)
++ **Alleinstellungsmerkmal:** Address and toolbar at the bottom, dark mode, the only trustworthy among the big players
++ **Quellcode:** [hg.mozilla.org/mozilla-central](https://hg.mozilla.org/mozilla-central/)
 
 **Additional steps**
 
@@ -186,14 +187,14 @@ Browsing the web.
 Using you smartphone or tablet. Managing you start screen, app drawer, widgets and wallpapers.
 
 + **Name:** Lawnchair Launcher v2
-+ **Availability:** [Lawnchair v2](https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah) on Play Store
-+ **Feature highlights:** Almost everything can be customized,
++ **Verfügbarkeit:** [Lawnchair v2](https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah) on Play Store
++ **Alleinstellungsmerkmal:** Almost everything can be customized,
   - custom icons,
   - hiding apps,
   - setting adaptive icon shapes,
   - managing drawer categories,
   - ...
-+ **Source code:** [github.com/LawnchairLauncher/Lawnchair](https://github.com/LawnchairLauncher/Lawnchair)
++ **Quellcode:** [github.com/LawnchairLauncher/Lawnchair](https://github.com/LawnchairLauncher/Lawnchair)
 
 > **HINT:** Unfortunately the development is dead right now and it works only with Android <= 10. For Android >= 11
 > use its fork [Omega Launcher](https://github.com/otakuhqz/Omega) which is available via the [IzzyOnDroid](https://www.izzysoft.de/)
@@ -210,9 +211,9 @@ Customize the launcher how you like.
 Blocks trackers and domains that are known to undermine privacy, security and performance in a non-tolerable way.
 
 + **Name:** Blokada 5
-+ **Availability:** [Blokada 5](https://f-droid.org/packages/org.blokada.fem.fdroid/) on F-Droid
-+ **Feature highlights:** Choose from a whole bunch of block lists
-+ **Source code:** [github.com/blokadaorg/blokada](https://github.com/blokadaorg/blokada)
++ **Verfügbarkeit:** [Blokada 5](https://f-droid.org/packages/org.blokada.fem.fdroid/) on F-Droid
++ **Alleinstellungsmerkmal:** Choose from a whole bunch of block lists
++ **Quellcode:** [github.com/blokadaorg/blokada](https://github.com/blokadaorg/blokada)
 
 > **HINT:** Blokada creates a local VPN. That means, it does not transfer any of your traffic somewhere else.
 > It simply uses the VPN on your phone to filter the traffic directly in your device. If you have trouble using
@@ -234,11 +235,11 @@ Blocks trackers and domains that are known to undermine privacy, security and pe
 Receiving and sending E-Mails.
 
 + **Name:** FairEmail
-+ **Availability:**
++ **Verfügbarkeit:**
   - [FairEmail](https://f-droid.org/packages/eu.faircode.email/) on F-Droid
   - [FairEmail](https://play.google.com/store/apps/details?id=eu.faircode.email) on Play Store
-+ **Feature highlights:** Displays E-Mail in an easy to read layout, block trackers and helps the user with identifying phishing mails
-+ **Source code:** [github.com/M66B/FairEmail](https://github.com/M66B/FairEmail/)
++ **Alleinstellungsmerkmal:** Displays E-Mail in an easy to read layout, block trackers and helps the user with identifying phishing mails
++ **Quellcode:** [github.com/M66B/FairEmail](https://github.com/M66B/FairEmail/)
 
 
 ## Phone / Dialer & Contacts
@@ -246,11 +247,11 @@ Receiving and sending E-Mails.
 Calling people, browsing and editing contacts. This entry consists of two apps that are best used together.
 
 + **Name:** Simple Dialer and Simple Contacts from the [SimpleMobileTools app suite](https://www.simplemobiletools.com/)
-+ **Availability:**
++ **Verfügbarkeit:**
   - [Simple Dialer](https://f-droid.org/packages/com.simplemobiletools.dialer/) and [Simple Contacts Pro](https://f-droid.org/packages/com.simplemobiletools.contacts.pro/) on F-Droid (install [Simple Thank You](https://f-droid.org/en/packages/com.simplemobiletools.thankyou/) as well to get pro features)
   - [Simple Dialer](https://play.google.com/store/apps/details?id=com.simplemobiletools.dialer) and [Simple Contacts Pro](https://play.google.com/store/apps/details?id=com.simplemobiletools.contacts.pro) (ca. 1€) on Play Store
-+ **Feature highlights:** Theming, chosing contact sources (cloud, SIM, accounts, ...)
-+ **Source code:** [github.com/SimpleMobileTools](https://github.com/SimpleMobileTools)
++ **Alleinstellungsmerkmal:** Theming, chosing contact sources (cloud, SIM, accounts, ...)
++ **Quellcode:** [github.com/SimpleMobileTools](https://github.com/SimpleMobileTools)
 
 
 ## Gallery
@@ -258,11 +259,11 @@ Calling people, browsing and editing contacts. This entry consists of two apps t
 Managing and viewing your photos and videos.
 
 + **Name:** Simple Gallery Pro
-+ **Availability:**
++ **Verfügbarkeit:**
   - [Simple Gallery Pro](https://f-droid.org/packages/com.simplemobiletools.gallery.pro/) on F-Droid (install [Simple Thank You](https://f-droid.org/en/packages/com.simplemobiletools.thankyou/) as well to get pro features)
   - [Simple Gallery Pro](https://play.google.com/store/apps/details?id=com.simplemobiletools.gallery.pro) (ca. 1€) on Play Store
-+ **Feature highlights:** Theming support, excluding and including specific directories
-+ **Source code:** [github.com/SimpleMobileTools](https://github.com/SimpleMobileTools)
++ **Alleinstellungsmerkmal:** Theming support, excluding and including specific directories
++ **Quellcode:** [github.com/SimpleMobileTools](https://github.com/SimpleMobileTools)
 
 
 ## Music
@@ -270,9 +271,9 @@ Managing and viewing your photos and videos.
 Playing your locally stored music.
 
 + **Name:** Vinyl Music Player
-+ **Availability:** [Vinyl Music Player](https://f-droid.org/packages/com.poupa.vinylmusicplayer/) on F-Droid
-+ **Feature highlights:** Cover art
-+ **Source code:** [github.com/AdrienPoupa/VinylMusicPlayer](https://github.com/AdrienPoupa/VinylMusicPlayer)
++ **Verfügbarkeit:** [Vinyl Music Player](https://f-droid.org/packages/com.poupa.vinylmusicplayer/) on F-Droid
++ **Alleinstellungsmerkmal:** Cover art
++ **Quellcode:** [github.com/AdrienPoupa/VinylMusicPlayer](https://github.com/AdrienPoupa/VinylMusicPlayer)
 
 
 ## Calendar
@@ -280,18 +281,18 @@ Playing your locally stored music.
 Viewing and managing your dates and birthdays.
 
 + **Name:** Etar
-+ **Availability:** [Etar](https://f-droid.org/packages/ws.xsoh.etar/) on F-Droid
-+ **Feature highlights:** Includes widgets
-+ **Source code:** [github.com/Etar-Group/Etar-Calendar](https://github.com/Etar-Group/Etar-Calendar)
++ **Verfügbarkeit:** [Etar](https://f-droid.org/packages/ws.xsoh.etar/) on F-Droid
++ **Alleinstellungsmerkmal:** Includes widgets
++ **Quellcode:** [github.com/Etar-Group/Etar-Calendar](https://github.com/Etar-Group/Etar-Calendar)
 
 or
 
 + **Name:** Simple Calendar Pro
-+ **Availability:**
++ **Verfügbarkeit:**
   - [Simple Calendar Pro](https://f-droid.org/packages/com.simplemobiletools.calendar.pro/) on F-Droid (install [Simple Thank You](https://f-droid.org/en/packages/com.simplemobiletools.thankyou/) as well to get pro features)
   - [Simple Calendar Pro](https://play.google.com/store/apps/details?id=com.simplemobiletools.calendar.pro) (ca. 1€) on Play Store
-+ **Feature highlights:** Theming support, with widgets
-+ **Source code:** [github.com/SimpleMobileTools](https://github.com/SimpleMobileTools)
++ **Alleinstellungsmerkmal:** Theming support, with widgets
++ **Quellcode:** [github.com/SimpleMobileTools](https://github.com/SimpleMobileTools)
 
 
 ## Instant Messenger
@@ -299,16 +300,16 @@ or
 Encrypted secure instant messaging.
 
 + **Name:** Briar
-+ **Availability:** [Briar](https://f-droid.org/packages/org.briarproject.briar.android/) on F-Droid
-+ **Feature highlights:** Serverless direct messaging, works even when governments shut down the internet
-+ **Source code:** [code.briarproject.org/briar/briar](https://code.briarproject.org/briar/briar)
++ **Verfügbarkeit:** [Briar](https://f-droid.org/packages/org.briarproject.briar.android/) on F-Droid
++ **Alleinstellungsmerkmal:** Serverless direct messaging, works even when governments shut down the internet
++ **Quellcode:** [code.briarproject.org/briar/briar](https://code.briarproject.org/briar/briar)
 
 and
 
 + **Name:** Signal
-+ **Availability:** [Signal Messenger](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) on Play Store
-+ **Feature highlights:** Phone and Video conferences
-+ **Source code:** [github.com/signalapp](https://github.com/signalapp)
++ **Verfügbarkeit:** [Signal Messenger](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) on Play Store
++ **Alleinstellungsmerkmal:** Phone and Video conferences
++ **Quellcode:** [github.com/signalapp](https://github.com/signalapp)
 
 
 ## Podcasts
@@ -316,9 +317,9 @@ and
 Downloading and streaming podcasts.
 
 + **Name:** AntennaPod
-+ **Availability:** [AntennaPod](https://f-droid.org/packages/de.danoeh.antennapod/) on F-Droid
-+ **Feature highlights:** Modern interface, theming
-+ **Source code:** [github.com/AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod)
++ **Verfügbarkeit:** [AntennaPod](https://f-droid.org/packages/de.danoeh.antennapod/) on F-Droid
++ **Alleinstellungsmerkmal:** Modern interface, theming
++ **Quellcode:** [github.com/AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod)
 
 
 ## Radio
@@ -326,9 +327,9 @@ Downloading and streaming podcasts.
 Listening to online radio stations world wide.
 
 + **Name:** RadioDroid
-+ **Availability:** [RadioDroid](https://f-droid.org/packages/net.programmierecke.radiodroid2/) on F-Droid
-+ **Feature highlights:** Modern interface
-+ **Source code:** [github.com/segler-alex/RadioDroid](https://github.com/segler-alex/RadioDroid)
++ **Verfügbarkeit:** [RadioDroid](https://f-droid.org/packages/net.programmierecke.radiodroid2/) on F-Droid
++ **Alleinstellungsmerkmal:** Modern interface
++ **Quellcode:** [github.com/segler-alex/RadioDroid](https://github.com/segler-alex/RadioDroid)
 
 
 ## Navigation
@@ -336,9 +337,9 @@ Listening to online radio stations world wide.
 Navigation and maps.
 
 + **Name:** OsmAnd~
-+ **Availability:** [OsmAnd~ Plus](https://f-droid.org/packages/net.osmand.plus/) on F-Droid
-+ **Feature highlights:** Offline navigation, high customizability
-+ **Source code:** [github.com/osmandapp/Osmand](https://github.com/osmandapp/Osmand)
++ **Verfügbarkeit:** [OsmAnd~ Plus](https://f-droid.org/packages/net.osmand.plus/) on F-Droid
++ **Alleinstellungsmerkmal:** Offline navigation, high customizability
++ **Quellcode:** [github.com/osmandapp/Osmand](https://github.com/osmandapp/Osmand)
 
 
 ## Calculator
@@ -346,18 +347,18 @@ Navigation and maps.
 Calculations of any kind.
 
 + **Name:** Calculator++
-+ **Availability:** [Calculator++](https://f-droid.org/packages/org.solovyev.android.calculator/) on F-Droid
-+ **Feature highlights:** Real scientific calculator, great UI
-+ **Source code:** [github.com/Bubu/android-calculatorpp](https://github.com/Bubu/android-calculatorpp)
++ **Verfügbarkeit:** [Calculator++](https://f-droid.org/packages/org.solovyev.android.calculator/) on F-Droid
++ **Alleinstellungsmerkmal:** Real scientific calculator, great UI
++ **Quellcode:** [github.com/Bubu/android-calculatorpp](https://github.com/Bubu/android-calculatorpp)
 
 ## YouTube
 
 Watching videos on YouTube.
 
 + **Name:** NewPipe
-+ **Availability:** NewPipe can be installed from F-Droid
-+ **Feature highlights:** Great performance, more privacy
-+ **Source code:** [github.com/TeamNewPipe/NewPipe/](https://github.com/TeamNewPipe/NewPipe/)
++ **Verfügbarkeit:** NewPipe can be installed from F-Droid
++ **Alleinstellungsmerkmal:** Great performance, more privacy
++ **Quellcode:** [github.com/TeamNewPipe/NewPipe/](https://github.com/TeamNewPipe/NewPipe/)
 
 **Additional steps**
 
@@ -375,9 +376,9 @@ therefore we do the following:
 Keeping up to date with projects you are interested in.
 
 + **Name:** spaRSS
-+ **Availability:** [spaRSS](https://f-droid.org/packages/net.etuldan.sparss.floss/) on F-Droid
-+ **Feature highlights:** Great and simple reader
-+ **Source code:** [github.com/Etuldan/spaRSS](https://github.com/Etuldan/spaRSS)
++ **Verfügbarkeit:** [spaRSS](https://f-droid.org/packages/net.etuldan.sparss.floss/) on F-Droid
++ **Alleinstellungsmerkmal:** Great and simple reader
++ **Quellcode:** [github.com/Etuldan/spaRSS](https://github.com/Etuldan/spaRSS)
 
 
 ## Password Manager
@@ -385,9 +386,9 @@ Keeping up to date with projects you are interested in.
 Managing and generating strong passwords and login credentials.
 
 + **Name:** KeePassDX
-+ **Availability:** [KeePassDX](https://f-droid.org/packages/com.kunzisoft.keepass.libre/) on F-Droid
-+ **Feature highlights:** Modern UI, compatible with desktop KeePass
-+ **Source code:** [github.com/Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX)
++ **Verfügbarkeit:** [KeePassDX](https://f-droid.org/packages/com.kunzisoft.keepass.libre/) on F-Droid
++ **Alleinstellungsmerkmal:** Modern UI, compatible with desktop KeePass
++ **Quellcode:** [github.com/Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX)
 
 
 **Additional steps**
@@ -400,9 +401,9 @@ Take your time to read through the instructions and information in the wiki to p
 Viewing several document formats.
 
 + **Name:** MuPDF
-+ **Availability:** [MuPDF](https://f-droid.org/packages/com.artifex.mupdf.viewer.app/) on F-Droid
-+ **Feature highlights:** Very lightweight
-+ **Source code:** [git.ghostscript.com/?p=mupdf-android-viewer.git;a=summary](https://git.ghostscript.com/?p=mupdf-android-viewer.git;a=summary)
++ **Verfügbarkeit:** [MuPDF](https://f-droid.org/packages/com.artifex.mupdf.viewer.app/) on F-Droid
++ **Alleinstellungsmerkmal:** Very lightweight
++ **Quellcode:** [git.ghostscript.com/?p=mupdf-android-viewer.git;a=summary](https://git.ghostscript.com/?p=mupdf-android-viewer.git;a=summary)
 
 
 ## Keyboard
@@ -410,9 +411,9 @@ Viewing several document formats.
 Writing.
 
 + **Name:** Open Board
-+ **Availability:** [Open Board](https://f-droid.org/packages/org.dslul.openboard.inputmethod.latin/) on F-Droid
-+ **Feature highlights:** Lightweight, simple, multi-language
-+ **Source code:** [github.com/dslul/openboard](https://github.com/dslul/openboard)
++ **Verfügbarkeit:** [Open Board](https://f-droid.org/packages/org.dslul.openboard.inputmethod.latin/) on F-Droid
++ **Alleinstellungsmerkmal:** Lightweight, simple, multi-language
++ **Quellcode:** [github.com/dslul/openboard](https://github.com/dslul/openboard)
 
 
 ## SMS
@@ -420,8 +421,8 @@ Writing.
 Writing and receiving SMS.
 
 + **Name:** QKSMS
-+ **Availability:** [QKSMS](https://f-droid.org/de/packages/com.moez.QKSMS/) on F-Droid
-+ **Feature highlights:** Lightweight, archiving function
-+ **Source code:** [github.com/moezbhatti/qksms](https://github.com/moezbhatti/qksms)
++ **Verfügbarkeit:** [QKSMS](https://f-droid.org/de/packages/com.moez.QKSMS/) on F-Droid
++ **Alleinstellungsmerkmal:** Lightweight, archiving function
++ **Quellcode:** [github.com/moezbhatti/qksms](https://github.com/moezbhatti/qksms)
 
 
