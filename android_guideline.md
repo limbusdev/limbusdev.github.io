@@ -96,8 +96,7 @@ Browsing the web.
 Using you smartphone or tablet. Managing you start screen, app drawer, widgets and wallpapers.
 
 + **Name:** Lawnchair Launcher v2
-+ **Availability:**
-  - [Lawnchair v2](https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah) on Play Store
++ **Availability:** [Lawnchair v2](https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah) on Play Store
 + **Feature highlights:** Almost everything can be customized
 + **Source code:** [github.com/LawnchairLauncher/Lawnchair](https://github.com/LawnchairLauncher/Lawnchair)
 
@@ -109,4 +108,27 @@ Using you smartphone or tablet. Managing you start screen, app drawer, widgets a
 **Additional steps**
 
 Customize the launcher how you like.
+
+
+## Traffic Filter
+
+Blocks trackers and domains that are known to undermine privacy, security and performance in a non-tolerable way.
+
++ **Name:** Blokada 5
++ **Availability:** [Blokada 5](https://f-droid.org/de/packages/org.blokada.fem.fdroid/) on F-Droid
++ **Feature highlights:** Choose from a whole bunch of block lists
++ **Source code:** [github.com/blokadaorg/blokada](https://github.com/blokadaorg/blokada)
+
+> **HINT:** Blokada creates a local VPN. That means, it does not transfer any of your traffic somewhere else.
+> It simply uses the VPN on your phone to filter the traffic directly in your device. If you have trouble using
+> a specific app, you can also whitelist it in the Blokada settings.
+
+**Additional steps**
+
+1. Enable always on
+2. Disable battery optimization for this app
+3. Choose you blocklists
+  + minimum: DuckDuckGo + Phishing Army
+  + medium: DuckDuckGo + Phishing Army + Exodus Privacy
+  + maximum: DuckDuckGo + Phishing Army + Exodus Privacy + Any Energized List
 
