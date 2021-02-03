@@ -66,7 +66,7 @@ For all file managing tasks (browsing, copying, deleting, moving, ...).
 
 + **Name:** Simple File Manager Pro
 + **Availability:**
-  - [Simple File Manager](https://f-droid.org/en/packages/com.simplemobiletools.filemanager.pro/) on F-Droid (install [Simple Thank You](https://f-droid.org/en/packages/com.simplemobiletools.thankyou/) as well to get pro features)
+  - [Simple File Manager](https://f-droid.org/packages/com.simplemobiletools.filemanager.pro/) on F-Droid (install [Simple Thank You](https://f-droid.org/en/packages/com.simplemobiletools.thankyou/) as well to get pro features)
   - [Simple File Manager Pro](https://play.google.com/store/apps/details?id=com.simplemobiletools.filemanager.pro) (ca. 1€) on Play Store
 + **Feature highlights:** Theming support
 + **Source code:** [github.com/SimpleMobileTools/Simple-File-Manager](https://github.com/SimpleMobileTools/Simple-File-Manager)
@@ -81,7 +81,7 @@ Browsing the web.
 
 + **Name:** Firefox (Fennec)
 + **Availability:**
-  - [Fennec (Firefox without proprietary bits)](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) on F-Droid
+  - [Fennec (Firefox without proprietary bits)](https://f-droid.org/packages/org.mozilla.fennec_fdroid/) on F-Droid
   - [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox) on Play Store
 + **Feature highlights:** Address and toolbar at the bottom, dark mode, the only trustworthy among the big players
 + **Source code:** [hg.mozilla.org/mozilla-central](https://hg.mozilla.org/mozilla-central/)
@@ -115,7 +115,7 @@ Customize the launcher how you like.
 Blocks trackers and domains that are known to undermine privacy, security and performance in a non-tolerable way.
 
 + **Name:** Blokada 5
-+ **Availability:** [Blokada 5](https://f-droid.org/de/packages/org.blokada.fem.fdroid/) on F-Droid
++ **Availability:** [Blokada 5](https://f-droid.org/packages/org.blokada.fem.fdroid/) on F-Droid
 + **Feature highlights:** Choose from a whole bunch of block lists
 + **Source code:** [github.com/blokadaorg/blokada](https://github.com/blokadaorg/blokada)
 
@@ -125,10 +125,27 @@ Blocks trackers and domains that are known to undermine privacy, security and pe
 
 **Additional steps**
 
-1. Enable always on
-2. Disable battery optimization for this app
+1. Enable always on (*"Blokada Settings" > "VPN Profile" > "Always"*)
+2. Disable battery optimization for this app (*"Android Settings" > "Battery Optimization" > "Show all apps" > "Disable" for Blokada*)
 3. Choose you blocklists
   + minimum: DuckDuckGo + Phishing Army
   + medium: DuckDuckGo + Phishing Army + Exodus Privacy
   + maximum: DuckDuckGo + Phishing Army + Exodus Privacy + Any Energized List
+  
+  
+
+## E-Mail
+
+Receiving and sending E-Mails.
+
++ **Name:** FairEmail
++ **Availability:**
+  - [FairEmail](https://f-droid.org/packages/eu.faircode.email/) on F-Droid
+  - [FairEmail](https://play.google.com/store/apps/details?id=eu.faircode.email) on Play Store
++ **Feature highlights:** Displays E-Mail in an easy to read layout, block trackers and helps the user with identifying phishing mails
++ **Source code:** [github.com/M66B/FairEmail](https://github.com/M66B/FairEmail/)
+
+
+
+
 
