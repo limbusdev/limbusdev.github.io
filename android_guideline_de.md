@@ -43,7 +43,7 @@ written on the matter and I don't want to do it again here.
 + [Human Rights Watch: Sicherheit und Rechte online schützen](https://www.hrw.org/de/news/2018/12/11/sicherheit-und-rechte-online-schuetzen)
 
 
-# Donations
+# Spenden
 
 Während sich viele Entwickler gezwungen sehen, ihre Software mit Werbung und Trackern zu finanzieren, gibt es auch
 Entwickler, die ihre Arbeit ohne jegliche finanziellen Interessen zur Verfügung stellen und durch offenlegen des
@@ -53,7 +53,7 @@ Spende zu unterstützen. Unter den beigefügten Links sind meist auch Informatio
 Entwickler spenden kann.
 
 Viele der Apps in diesem Leitfaden stammen aus der **SimpleMobileTools**-App-Suite. Bitte ziehe eine Spende in Betracht,
-wenn du Pro-Funktionen der Apps nutzen willst. Spenden kann man unter [SimpleMobileTools.com](https://www.simplemobiletools.com/.
+wenn du Pro-Funktionen der Apps nutzen willst. Spenden kann man unter [SimpleMobileTools.com](https://www.simplemobiletools.com/).
 
 
 # App-Store
