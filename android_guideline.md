@@ -2,6 +2,11 @@
 
 # Android Guideline
 
+> **PLEASE READ:** The reason these apps are listed here is because they are trustworthy and open source.
+> Their developers have no intention to spy on you and no financial interest in your data. On the other
+> hand this means they give away their time and hard work for free. Pleaser consider at least 1, 2 or even
+> 5€ to them. Of course more is better : ).
+
 > **WARNING:** I take absolutely no responsibility for any damage done by following this guideline. Think for
 > yourself before applying any of the suggested steps.
 
@@ -199,14 +204,18 @@ Receiving and sending E-Mails.
 + **Source code:** [github.com/M66B/FairEmail](https://github.com/M66B/FairEmail/)
 
 
-## Cloud
-
-
 ## Phone / Dialer & Contacts
 
+Calling people, browsing and editing contacts. This entry consists of two apps that are best used together.
 
-## Inst
++ **Name:** Simple Dialer and Simple Contacts from the [SimpleMobileTools app suite](https://www.simplemobiletools.com/)
++ **Availability:**
+  - [Simple Dialer](https://f-droid.org/packages/com.simplemobiletools.dialer/) and [Simple Contacts Pro](https://f-droid.org/packages/com.simplemobiletools.contacts.pro/) on F-Droid (install [Simple Thank You](https://f-droid.org/en/packages/com.simplemobiletools.thankyou/) as well to get pro features)
+  - [Simple Dialer](https://play.google.com/store/apps/details?id=com.simplemobiletools.dialer) and [Simple Contacts Pro](https://play.google.com/store/apps/details?id=com.simplemobiletools.contacts.pro) (ca. 1€) on Play Store
++ **Feature highlights:** Theming, chosing contact sources (cloud, SIM, accounts, ...)
++ **Source code:** [github.com/SimpleMobileTools](https://github.com/SimpleMobileTools)
 
-
+> **HINT:** Please donate some money at [SimpleMobileTools](https://www.simplemobiletools.com/) if you plan to use the pro features. You can get the pro
+> features for free on F-Droid. But it's just fair to donate some € if you can afford it (and I think everyone can).
 
 
