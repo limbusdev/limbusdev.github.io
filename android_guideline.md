@@ -2,6 +2,8 @@
 
 # Android Guideline
 
+> [Auf deutsch lesen](./android_guideline_de.md)
+
 > **WARNING:** I take absolutely no responsibility for any damage done by following this guideline. Think for
 > yourself before applying any of the suggested steps.
 
