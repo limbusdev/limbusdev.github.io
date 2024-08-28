@@ -15,7 +15,7 @@ title: limbusdev
 
 + [Android Guideline (en)](./android_guideline.md)
 + [Android Guideline (de)](./android_guideline_de.md)
-
++ [Ubuntu 24.04 post install](./ubuntu-24.04-post-install.md)
 
 ## Privacy Policies
 
