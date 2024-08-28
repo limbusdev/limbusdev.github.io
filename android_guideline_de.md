@@ -42,8 +42,8 @@ Um diese Entwickler zu unterstützen, kann ich es jedem nur ans Herz legen, sie 
 Spende zu unterstützen. Unter den beigefügten Links sind meist auch Informationen zu finden, wie man an die
 Entwickler spenden kann.
 
-Viele der Apps in diesem Leitfaden stammen aus der **SimpleMobileTools**-App-Suite. Bitte ziehe eine Spende in Betracht,
-wenn du Pro-Funktionen der Apps nutzen willst. Spenden kann man unter [SimpleMobileTools.com](https://www.simplemobiletools.com/).
+Viele der Apps in diesem Leitfaden stammen aus der **Fossify**-App-Suite. Bitte ziehe eine Spende in Betracht,
+wenn du Pro-Funktionen der Apps nutzen willst. Spenden kann man unter [Fossify](https://github.com/FossifyOrg).
 
 
 # App-Store
@@ -77,6 +77,10 @@ Bei der ersten Installation einer App aus F-Droid wirst du aufgefordert, F-Droid
 aus unbekannten Quellen zu gewähren. Tu das.
 
 Jetzt ist F-Droid für den Einsatz bereit. Stöbere ein bisschen im Katalog und installiere, was dir gefällt.
+
+# New app store (optional)
+
+Obwohl F-Droid für die meisten Fälle genügt, fehlen einige Funktionen wie Audo-Updates. Hier kommt [Neo Store](https://github.com/NeoApplications/Neo-Store) ins Spiel - welcher wiederum über F-Droid installiert werden kann.
 
 
 # Die Cloud
@@ -148,24 +152,11 @@ Jeder Eintrag enthält Information über:
 
 Verwenden deines Smartphones oder Tablets. Verwaltung des Startbildschirms, der App-Übersicht, von Widgets und Hintergründen.
 
-+ **Name:** Lawnchair Launcher v2
-+ **Verfügbarkeit:** [Lawnchair v2](https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah) im Play Store
-+ **Alleinstellungsmerkmal:** So ziemlich alles kann man nach eigenem Geschmack anpassen.
-  - App-Icons,
-  - Apps verstecken,
-  - Form adaptiver Icons.
-  - App-Übersicht-Kategorien,
-  - ...
-+ **Quellcode:** [github.com/LawnchairLauncher/Lawnchair](https://github.com/LawnchairLauncher/Lawnchair)
+> Leider kann ich aktuell keinen Open Source Launcher vollumfänglich für jede und jeden empfehlen. Natürlich gibt es tolle open source-Apps, aber keine, die ich der breiten Masse empfehlen würde. Dennoch stelle ich ein paar Beispiele vor.
 
-> **HINWEIS:** Leider ruht die Entwicklung von **Lawnchair**. Die im Play Store verfügbare Version wird nur für Android-Versionen
-> bis 10 empfohlen. Ab Android 11 kann man den Fork [Omega Launcher](https://github.com/otakuhqz/Omega) verwenden, welcher nur via
-> [IzzyOnDroid](https://www.izzysoft.de/)s [F-Droid-Paketquelle](https://apt.izzysoft.de/fdroid/) verfügbar ist. **Omega Launcher**
-> ist zwar noch nicht so stabil wie **Lawnchair**, wird dafür aber aktiv entwickelt.
++ [KISS Launcher](https://f-droid.org/de/packages/fr.neamar.kiss/) - einfach, schnell, funktional - auf Kosten der Anpassbarkeit
++ [Kvaesito Launcher](https://f-droid.org/packages/de.mm20.launcher2.release/) - interessanter Launcher, der eventuell meine neue Empfehlung wird
 
-**Weitere Schritte**
-
-Den Launcher nach eigenem Geschmack einstellen.
 
 
 ### Browser
@@ -188,12 +179,12 @@ Browsing the web.
 
 Für alle Dateiverwaltungsaufgaben (durchsuchen, kopieren, löschen, verschieben, ...).
 
-+ **Name:** Schlichter Dateimanager Pro
++ **Name:** Fossify File Manager
 + **Verfügbarkeit:**
-  - [Schlichter Dateimanager Pro](https://f-droid.org/de/packages/com.simplemobiletools.filemanager.pro/) in F-Droid (installiere [Schlichtes Dankeschön](https://f-droid.org/de/packages/com.simplemobiletools.thankyou/) um Pro-Funktionen zu nutzen)
-  - [Schlichter Dateimanager Pro](https://play.google.com/store/apps/details?id=com.simplemobiletools.filemanager.pro) (ca. 1€) im Play Store
+ - [Fossify File Manager](https://f-droid.org/de/packages/org.fossify.filemanager/) in F-Droid
+ - [Fossify File Manager](https://play.google.com/store/apps/details?id=org.fossify.filemanager&hl=gsw) in Google Play
 + **Alleinstellungsmerkmal:** Themes
-+ **Quellcode:** [github.com/SimpleMobileTools/Simple-File-Manager](https://github.com/SimpleMobileTools/Simple-File-Manager)
++ **Quellcode:** [Fossify on GitHub](https://github.com/FossifyOrg/)
 
 
 ## Werkzeuge
@@ -209,12 +200,12 @@ Termine und Geburtstage verwalten.
 
 oder
 
-+ **Name:** Schlichter Kalender
++ **Name:** Fossify Calendar
 + **Verfügbarkeit:**
-  - [Schlichter Kalender Pro](https://f-droid.org/de/packages/com.simplemobiletools.calendar.pro/) in F-Droid (installiere [Schlichtes Dankeschön](https://f-droid.org/de/packages/com.simplemobiletools.thankyou/) um Pro-Funktionen zu nutzen)
-  - [Schlichter Kalender Pro](https://play.google.com/store/apps/details?id=com.simplemobiletools.calendar.pro) (ca. 1€) im Play Store
+  - [Fossify Calendar](https://f-droid.org/de/packages/org.fossify.calendar/) in F-Droid
+  - [Fossify Calendar](https://play.google.com/store/apps/details?id=org.fossify.calendar&hl=gsw) in Google Play
 + **Alleinstellungsmerkmal:** Themes, Widgets
-+ **Quellcode:** [github.com/SimpleMobileTools](https://github.com/SimpleMobileTools)
++ **Quellcode:** [Fossify on GitHub](https://github.com/FossifyOrg/)
 
 
 ### Navigation
@@ -225,6 +216,17 @@ Karten und Navigation.
 + **Verfügbarkeit:** [OsmAnd~ Plus](https://f-droid.org/de/packages/net.osmand.plus/) in F-Droid
 + **Alleinstellungsmerkmal:** Offline-Navigation, hochkonfigurierbar
 + **Quellcode:** [github.com/osmandapp/Osmand](https://github.com/osmandapp/Osmand)
+
+und
+
+
++ **Name:** Organic Maps
++ **Verfügbarkeit:**
+  - [Organic Maps](https://f-droid.org/de/packages/app.organicmaps/) in F-Droid
+  - [Organic Maps](https://play.google.com/store/apps/details?id=app.organicmaps&hl=gsw) in Google Play
++ **Alleinstellungsmerkmal:** Schick, sehr einfach zu benutzen
++ **Quellcode:** [Organic Maps on GitHub](https://github.com/organicmaps/organicmaps)
+
 
 
 ### Taschenrechner
@@ -241,11 +243,10 @@ Alle mögliche Berechnungen.
 
 Schreiben.
 
-+ **Name:** Open Board
-+ **Verfügbarkeit:** [Open Board](https://f-droid.org/de/packages/org.dslul.openboard.inputmethod.latin/) in F-Droid
++ **Name:** Heli Board
++ **Verfügbarkeit:** [Heli Board](https://f-droid.org/de/packages/helium314.keyboard/) in F-Droid
 + **Alleinstellungsmerkmal:** Mehrere Sprachen gleichzeitig
-+ **Quellcode:** [github.com/dslul/openboard](https://github.com/dslul/openboard)
-
++ **Quellcode:** [GitHub](https://github.com/Helium314/HeliBoard)
 
 ### QR Code Scanner
 
@@ -264,12 +265,12 @@ Einlesen von QR-Codes und deren Link folgen.
 Anrufen, Durchsuchen und Verwalten von Kontakten. Dieser Eintrag besteht aus zwei Apps, die am besten zusammen installiert werden.
 Calling people, browsing and editing contacts. This entry consists of two apps that are best used together.
 
-+ **Name:** Schlichtes Telefon und Schlichte Kontakte aus der [SimpleMobileTools-App-Suite](https://www.simplemobiletools.com/)
++ **Name:** Fossify Telefon und Fossify Kontakte
 + **Verfügbarkeit:**
-  - [Schlichtes Telefon](https://f-droid.org/de/packages/com.simplemobiletools.dialer/) und [Schlichte Kontakte Pro](https://f-droid.org/de/packages/com.simplemobiletools.contacts.pro/) in F-Droid (installiere [Schlichtes Dankeschön](https://f-droid.org/de/packages/com.simplemobiletools.thankyou/) um Pro-Funktionen zu nutzen)
-  - [Schlichtes Telefon](https://play.google.com/store/apps/details?id=com.simplemobiletools.dialer) und [Schlichte Kontakte Pro](https://play.google.com/store/apps/details?id=com.simplemobiletools.contacts.pro) (ca. 1€) im Play Store
+  - [Phone](https://f-droid.org/de/packages/org.fossify.phone/) und [Contacts](https://f-droid.org/de/packages/org.fossify.contacts/) in F-Droid
+  - [Phone](https://play.google.com/store/apps/details?id=org.fossify.phone&hl=gsw) und [Contacts](https://play.google.com/store/apps/details?id=org.fossify.contacts&hl=gsw) in Google Play
 + **Alleinstellungsmerkmal:** Themes, Kontaktlisten wählen (Cloud, SIM, Konten, ...)
-+ **Quellcode:** [github.com/SimpleMobileTools](https://github.com/SimpleMobileTools)
++ **Quellcode:** [Fossify on GitHub](https://github.com/FossifyOrg/)
 
 
 ### E-Mail
@@ -317,12 +318,12 @@ Schreiben und Empfangen von SMS.
 
 Betrachten und Verwalten eigener Fotos und Videos.
 
-+ **Name:** Schlichte Galerie
++ **Name:** Fossify Gallery
 + **Verfügbarkeit:**
-  - [Schlichte Galerie Pro](https://f-droid.org/de/packages/com.simplemobiletools.gallery.pro/) in F-Droid (installiere [Schlichtes Dankeschön](https://f-droid.org/de/packages/com.simplemobiletools.thankyou/) um Pro-Funktionen zu nutzen)
-  - [Schlichte Galerie Pro](https://play.google.com/store/apps/details?id=com.simplemobiletools.gallery.pro) (ca. 1€) im Play Store
+  - [Fossify Gallery](https://f-droid.org/de/packages/org.fossify.gallery/) in F-Droid 
+  - [Fossify Gallery](https://play.google.com/store/apps/details?id=org.fossify.gallery&hl=gsw) in Google Play
 + **Alleinstellungsmerkmal:** Themes, Ein- und Ausschließen bestimmter Verzeichnisse
-+ **Quellcode:** [github.com/SimpleMobileTools](https://github.com/SimpleMobileTools)
++ **Quellcode:** [Fossify on GitHub](https://github.com/FossifyOrg/)
 
 
 ### Musik
@@ -366,6 +367,8 @@ Videos auf YouTube anschauen.
 
 **Weitere Schritte**
 
+> Bei der Verwendung von Neo Store kann die Update-Quelle einfach in den Einstellungen aktiviert werden. Die nächsten Schritte sind dann überflüssig.
+
 **NewPipe** kann via F-Droid installiert werden. Da YoutTube oft die APIs verändert, sollte man jedoch stets die
 aktuellste Version verwenden. Daher ist es besser die offizielle Paketquelle von NewPipe in F-Droids Einstellungen
 einzutragen:
@@ -379,10 +382,11 @@ einzutragen:
 
 Immer auf dem neuesten Stand zu Projekten, die dich interressieren, bleiben.
 
-+ **Name:** spaRSS
-+ **Verfügbarkeit:** [spaRSS](https://f-droid.org/de/packages/net.etuldan.sparss.floss/) in F-Droid
++ **Name:** Flym
++ **Verfügbarkeit:** [Flym](https://f-droid.org/de/packages/net.frju.flym/) in F-Droid
 + **Alleinstellungsmerkmal:** Zuverlässiger Reader
-+ **Quellcode:** [github.com/Etuldan/spaRSS](https://github.com/Etuldan/spaRSS)
++ **Quellcode:** [GitHub](https://github.com/FredJul/Flym)
++ **Hinweise:** Leider vom Entwickler eingestellt
 
 
 ### Documenten-Betrachter (PDF, ...)
@@ -402,24 +406,30 @@ Verschiedene Dokumentformate betrachten.
 Verfolgung stoppen und Adressen blockieren, die dafür bekannt sind Privatsphäre, Sicherheit und Performance in nicht zu rechtfertigender
 Weise zu unterlaufen.
 
-+ **Name:** Blokada 5
-+ **Verfügbarkeit:** [Blokada 5](https://f-droid.org/de/packages/org.blokada.fem.fdroid/) in F-Droid
-+ **Alleinstellungsmerkmal:** Aus vielen Blockierungslisten wählen.
-+ **Quellcode:** [github.com/blokadaorg/blokada](https://github.com/blokadaorg/blokada)
+> **ACHTUNG:** Nur verwenden, wenn du weißt, was du tust und wie du es wieder deaktivieren kanns. Andernfalls könnte es durch Bugs oder Fehlkonfiguration passieren, dass deine Apps keine Verbindung zum Internet mehr herstellen können.
 
-> **HINWEIS:** Blokada erzeugt ein lokales VPN. Das bedeutet, es werden keine Daten an irgendwelche Server übertragen sondern lediglich
++ **Name:** [RethinkDNS](https://rethinkdns.com/app)
++ **Verfügbarkeit:**
+  - [RehtinkDNS](https://f-droid.org/de/packages/com.celzero.bravedns/) on F-Droid
+  - [RethinkDNS](https://play.google.com/store/apps/details?id=com.celzero.bravedns) on Google Play
++ **Alleinstellungsmerkmal:** Aus vielen Blockierungslisten wählen.
++ **Quellcode:** [GitHub](https://github.com/celzero)
++ **Hinweis:** Unterstützt durch mozilla builders
+
+> **HINWEIS:** RethinkDNS erzeugt ein lokales VPN. Das bedeutet, es werden keine Daten an irgendwelche Server übertragen sondern lediglich
 > lokal im eigenen Gerät gefiltert. Sollten Probleme mit einer App bei aktiviertem Blokada auftreten, kann diese App in den
-> Blokada-Einstellungen auf eine Ausnahmen-Liste gesetzt werden.
+> RethinkDNS-Einstellungen auf eine Ausnahmen-Liste gesetzt werden.
 
 
 **Weitere Schritte**
 
-1. "Immer aktiv" einschalten (*"Blokada-Einstellungen" > "VPN-Profil" > "Immer aktiv"*)
-2. Akku-Optimierung für diese App deaktivieren (*"Android-Einstellungen" > "Akku-Optimierung" > "Alle Apps anzeigen" > "Deaktivieren" bei Blokada*)
-3. Blocklisten aktivieren
-  + minimum: DuckDuckGo + Phishing Army
-  + medium: DuckDuckGo + Phishing Army + Exodus Privacy
-  + maximum: DuckDuckGo + Phishing Army + Exodus Privacy + irgendeine Energized-Liste
+1. Um lokale Blocklisten zu verwenden:
+2. *"Konfigurieren" > "DNS"*
+3. Aktiviere "System DNS"
+4. Aktiviere "Nutzer In-App-Downloader"
+5. *"Geräteinterne Blocklisten" > "Konfigurieren"*
+6. Download abwarten
+7. Listen aktivieren
   
 
 ### Passwort-Manager
